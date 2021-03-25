@@ -1,0 +1,10 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "Łukasz Kunicki portfolio",
+  "main": "index.js",
+  "repository": "https://github.com/Squnix/Portfolio",
+  "author": "Squnix",
+  "license": "MIT",
+  "private": true
+}
